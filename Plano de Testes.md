@@ -16,6 +16,7 @@ Cobrir o site da Sercomp VI
 Data     | Versão         | Descrição | Autor 
 --- |  ---    | --- | --- |
 10/04/2024     | Versão 1.0 | Trazendo o Plano de teste,fazendo a criação do repositório e iniciando testes automatizados | Yasmin Dantas de Araújo Lima
+11/04/2024     | Versão 1.1 | Finalizando de analisar os requisitos funcionais,ajeitando erro de data,colocando melhorias | Yasmin Dantas de Araújo Lima
 
 # Objetivos
 
@@ -136,10 +137,42 @@ O objetivo dos testes é garantir que o site Sercomp VI seja interativo, atenda 
 
  RF | Status do Teste | Autor | Observações
   ---    | --- | --- | --- |
-RF_001| não finalizado | Yasmin Dantas de Araújo Lima | --
-RF_002| não finalizado | Yasmin Dantas de Araújo Lima | --
-RF_003| Aprovado | Yasmin Dantas de Araújo Lima | --
-RF_004| Aprovado | Yasmin Dantas de Araújo Lima | --
+RF_001| não finalizado | Yasmin Dantas de Araújo Lima | ---
+RF_002| não finalizado | Yasmin Dantas de Araújo Lima | ---
+RF_003| Aprovado | Yasmin Dantas de Araújo Lima | ---
+RF_004| Aprovado | Yasmin Dantas de Araújo Lima | ---
+RF_005| Corrigido | Yasmin Dantas de Araújo Lima | Ajeitado por mim
+RF_006| Aprovado | Yasmin Dantas de Araújo Lima | ---
+RF_007| Aprovado | Yasmin Dantas de Araújo Lima | ---
+RF_008| Aprovado | Yasmin Dantas de Araújo Lima | ---
+RF_009| Aprovado | Yasmin Dantas de Araújo Lima | ---
+RF_010| A definir | Yasmin Dantas de Araújo Lima | ---
+RF_011| A definir | Yasmin Dantas de Araújo Lima | ---
+RF_012| A definir | Yasmin Dantas de Araújo Lima | ---
+RF_013| A definir | Yasmin Dantas de Araújo Lima | ---
+RF_014| A definir | Yasmin Dantas de Araújo Lima | ---
+RF_015| não finalizado | Yasmin Dantas de Araújo Lima | ---
+RF_016| Aprovado | Yasmin Dantas de Araújo Lima | ---
+RF_017| Aprovado | Yasmin Dantas de Araújo Lima | ---
+RF_018| A definir | Yasmin Dantas de Araújo Lima | ---
+RF_019| A definir | Yasmin Dantas de Araújo Lima | ---
+RF_020| A definir | Yasmin Dantas de Araújo Lima | ---
+RF_021| A definir | Yasmin Dantas de Araújo Lima | ---
+RF_022| A definir | Yasmin Dantas de Araújo Lima | ---
+RF_023| Aprovado | Yasmin Dantas de Araújo Lima | ---
+RF_024| A definir | Yasmin Dantas de Araújo Lima | ---
+RF_025| A definir | Yasmin Dantas de Araújo Lima | ---
+RF_026| A definir | Yasmin Dantas de Araújo Lima | ---
+RF_027| A definir | Yasmin Dantas de Araújo Lima | ---
+RF_028| Aprovado | Yasmin Dantas de Araújo Lima | Mudar para VI pois está em V
+RF_029| Aprovado | Yasmin Dantas de Araújo Lima | ---
+RF_030| Não finalizado | Yasmin Dantas de Araújo Lima | ---
+RF_031| Não finalizado | Yasmin Dantas de Araújo Lima | ---
+RF_032| A definir | Yasmin Dantas de Araújo Lima | ---
+RF_033| Aprovado | Yasmin Dantas de Araújo Lima | A parte de programação e contato dá pra melhorar
+RF_034| Aprovado | Yasmin Dantas de Araújo Lima | ---
+RF_035| Aprovado | Yasmin Dantas de Araújo Lima | Falta ajeitar a programação
+
 
 
 
@@ -149,3 +182,6 @@ RF_004| Aprovado | Yasmin Dantas de Araújo Lima | --
 Data da melhoria      |Descrição          | Autor
 :--------- | :------:    | -------:
 10/04/2024 | Não tem nada em Políticas Gerais | Yasmin Dantas de Araújo Lima
+11/04/2024 | Mudar para VI pois está em V em Sobre,Falta ajeitar a programação | Yasmin Dantas de Araújo Lima
+
+
