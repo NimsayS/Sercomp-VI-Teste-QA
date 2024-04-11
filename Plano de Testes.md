@@ -141,7 +141,7 @@ RF_001| não finalizado | Yasmin Dantas de Araújo Lima | ---
 RF_002| não finalizado | Yasmin Dantas de Araújo Lima | ---
 RF_003| Aprovado | Yasmin Dantas de Araújo Lima | ---
 RF_004| Aprovado | Yasmin Dantas de Araújo Lima | ---
-RF_005| Corrigido | Yasmin Dantas de Araújo Lima | Ajeitado por mim
+RF_005| Aprovado | Yasmin Dantas de Araújo Lima | ---
 RF_006| Aprovado | Yasmin Dantas de Araújo Lima | ---
 RF_007| Aprovado | Yasmin Dantas de Araújo Lima | ---
 RF_008| Aprovado | Yasmin Dantas de Araújo Lima | ---
