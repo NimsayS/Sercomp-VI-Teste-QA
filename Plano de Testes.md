@@ -1,7 +1,5 @@
-![Teste_de_Performance](/uploads/c1fb4613e2e46c85d40bae8bf4829af4/Teste_de_Performance.png)
-
-
-
+![Teste_de_Performance (1)](https://github.com/NimsayS/Sercomp-VI-Teste-QA/assets/104380424/79552315-5c48-48eb-9ae2-745b785d6fbe)
+![Sercomp-VI](https://github.com/NimsayS/Sercomp-VI-Teste-QA/assets/104380424/ddbf91f0-6034-4284-8d27-86d02e3377c1)
 
 
 # Equipe
@@ -17,7 +15,7 @@ Cobrir o site da Sercomp VI
 
 Data     | Versão         | Descrição | Autor 
 --- |  ---    | --- | --- |
-10/04/2024     | Versão 1.0 | Trazendo o Plano de teste, fazendo a criação do repositório e iniciando testes automatizados | Yasmin Dantas de Araújo Lima
+10/04/2024     | Versão 1.0 | Trazendo o Plano de teste,fazendo a criação do repositório e iniciando testes automatizados | Yasmin Dantas de Araújo Lima
 
 # Objetivos
 
@@ -135,11 +133,15 @@ O objetivo dos testes é garantir que o site Sercomp VI seja interativo, atenda 
 
 # Caso de teste 
 
-CT         | RF           | Descrição
-:--------- | :------:    | -------:
-CT_001     |login com 500 usuários| Tempo de resposta -= 200ms
-CT_002     |Testar efetuação de login com 60 usuários por 30 minutos| Tempo de resposta menos que 300 ms
-CT_003     |Testar o aumento de 50 usuários por minuto   | Tempo de resposta menos que 300 ms
+
+ RF | Status do Teste | Autor | Observações
+  ---    | --- | --- | --- |
+RF_001| não finalizado | Yasmin Dantas de Araújo Lima | --
+RF_002| não finalizado | Yasmin Dantas de Araújo Lima | --
+RF_003| Aprovado | Yasmin Dantas de Araújo Lima | --
+RF_004| Aprovado | Yasmin Dantas de Araújo Lima | --
+
+
 
 
 # Melhorias 
